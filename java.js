@@ -37,3 +37,7 @@ function widith() {
     document.getElementById("visina").innerHTML = h;
     document.getElementById("sirina").innerHTML = w;
 }
+
+function noviprozor() {
+    window.open("https://www.google.hr/","_blank","width=420,height=420")
+}
